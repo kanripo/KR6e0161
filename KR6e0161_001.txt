@@ -1,0 +1,24 @@
+#-*- mode: mandoku-view; -*-
+#+DATE: 2015-09-28 22:59:05.481926
+#+TITLE: 釋華嚴漩澓偈
+#+PROPERTY: CBETA_ID F28n1082
+#+PROPERTY: ID KR6e0161
+#+PROPERTY: SOURCE Fangshan shijing Vol. 28, No. 1082
+#+PROPERTY: VOL 28
+#+PROPERTY: BASEEDITION F
+#+PROPERTY: WITNESS CBETA
+#+PROPERTY: LASTPB <pb:KR6e0161_F_000-0627a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
+#+PROPERTY: LASTPB <pb:KR6e0161_F_001-0627a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
+#+PROPERTY: JUAN 1
+
+ 釋花嚴漩澓偈¶
+南嶽般舟道場比丘　惟勁　釋¶
+
+夫見滄溟浩淼積隱摩尼巨嶽穹崇多含碧玉¶
+適覽斯偈往復審詳篇目既與群殊定包無邊¶
+之奧義輒申管見略釋綱猷冀方寸之微言知¶
+虛空之廣大漩澓之号定體淵深大理與花嚴
+<pb:KR6e0161_F_001-0627b>¶
+相應餘教傍而少證略序標首廣意後陳其偈¶
+揔有一十四句詳其義意通一十段釋之并隨¶
+段結頌顯其揔意也。
