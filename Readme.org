@@ -1,11 +1,11 @@
-#-*- mode: org; -*-
-#+DATE: 2015-09-28 22:59:05.461878
-#+TITLE: 釋華嚴漩澓偈
-#+PROPERTY: CBETA_ID F28n1082
-#+PROPERTY: ID KR6e0161
-#+PROPERTY: SOURCE Fangshan shijing Vol. 28, No. 1082
-#+PROPERTY: VOL 28
-#+PROPERTY: BASEEDITION F
-#+PROPERTY: WITNESS CBETA
-#+PROPERTY: LASTPB <pb:KR6e0161_F_000-0627a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
+#+TITLE: 釋華嚴漩澓偈 
+#+DATE: 2016-06-08 05:28:11.520783
+
+* 版本
+ |     CBETA|【電子佛典集成】|
+
+* 目次
+
+* 卷
+[[file:KR6e0161_001.txt][釋華嚴漩澓偈 1]]
 
